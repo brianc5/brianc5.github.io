@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brian Chen&#39;s website</title>
-    <link>/zh-cn/</link>
+    <link>https://example.com/zh-cn/</link>
     <description>Recent content on Brian Chen&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-CN</language><atom:link href="https://example.com/zh-cn/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
