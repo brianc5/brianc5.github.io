@@ -1,0 +1,19 @@
+[{
+    "title": "Semantic Mesh",
+    "date": "",
+    "description": "",
+    "body": "Coming soon\u0026hellip;\n",
+    "ref": "/project/semantic_mesh/"
+  },{
+    "title": "First",
+    "date": "",
+    "description": "",
+    "body": "Some contents of a file in blog\n",
+    "ref": "/blog/first/"
+  },{
+    "title": "About",
+    "date": "",
+    "description": "",
+    "body": "I am a rising senior majoring in computer science at University of Illinois at Urbana Champaign (UIUC). I will be an intern at the Illumination and Imaging Lab (IMIL) at the Robotics Institue, Carnegie Mellon University (CMU). I was an one-semester visiting student at National Taiwan University. My resarch interests are machine/deep learning, computer vision/graphics, and computational photography. Specifically, I currently focus more on 3D side of computer graphics/vision. I am from Taiwan and I love the mountain there.\n 🎓Education   University of Illinois at Urbana-Champaign\nAug. 2018 - Dec. 2021\nBS in Computer Science\nGPA: 3.96/4.00\n  National Taiwan University\nFall 2020\nOne-semester visiting student\nGPA: 4.30/4.30\n   ✔️Experience   Deep Learning Research Intern\nJune 2020 - May 2021\nData Analytics Group, National Center of Supercomputing Application (NCSA)\n Developed a temporal convolution network for video action recognition, written in tensorflow Achieved 98% frame-wise accuracy @ 1 fps on a real-world sea turtle dataset Familiar with Linux system and cluster job scripts    Undergradute Research Assistant\nFeb. 2020 - Present\nProf. David Forsyth\n Utilized a soft rasterizer to develop a 2D mesh semantic mask for image segmentation Worked on novel view synthesis of scenes using generated models (more coming soon)    PyTorchFI Contributor\nFeb. 2020\nHackIllinois, Champaign, IL\n Developed a runtime perturbation tool (PyTorchFI) for DNNs, implemented for PyTorch Refactored the fault injector to generalize to inject error into specific parts of RNNs and LSTMs for testing models’ robustness to unexpected errors    MEMBER OF PACBOT CODING TEAM\nAug. 2018 - May 2019\niRobotics, Champaign, IL\n Worked on the algorithm of a completely automated robot that runs on a real world Pacman game Used Dijkstra\u0026rsquo;s shortest path algorithm and updated signals of the current position of ghosts and PacBot to compute the next movement of the PacBot, written in Python Participated in Harvard PacBot Competition and won the 4th place     🏆Awards  National Science Foundation (NSF) Research Experiences for Undergraduates (REU) NCSA Letter of Recognition NCSA Fiddler Innovation Undergraduate Student Fellowship Award College of Engineering Dean’s List ‘18, ‘19, ‘20, ‘21   ⛰️Interests Apart from being a machine learning and computer vision/graphics enthusiast, I enjoy mountain hiking. I have been to 39 out of 100 most famous mountain peak in Taiwan (台灣百岳). Taking beautiful photos in mountain and apply my skills to these photos are one of my favorite hobby.\n",
+    "ref": "/about/"
+  }]
