@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brian Chen&#39;s website</title>
-    <link>https://example.com/</link>
+    <link>https://brianc5.github.io/</link>
     <description>Recent content on Brian Chen&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 May 2021 02:14:18 +0800</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 May 2021 02:14:18 +0800</lastBuildDate><atom:link href="https://brianc5.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Semantic Mesh</title>
-      <link>https://example.com/project/semantic_mesh/</link>
+      <link>https://brianc5.github.io/project/semantic_mesh/</link>
       <pubDate>Sun, 23 May 2021 02:14:18 +0800</pubDate>
       
-      <guid>https://example.com/project/semantic_mesh/</guid>
+      <guid>https://brianc5.github.io/project/semantic_mesh/</guid>
       <description>Coming soon&amp;hellip;</description>
     </item>
     
     <item>
       <title>First</title>
-      <link>https://example.com/blog/first/</link>
+      <link>https://brianc5.github.io/blog/first/</link>
       <pubDate>Sun, 23 May 2021 01:59:28 +0800</pubDate>
       
-      <guid>https://example.com/blog/first/</guid>
+      <guid>https://brianc5.github.io/blog/first/</guid>
       <description>Some contents of a file in blog</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://brianc5.github.io/about/</link>
       <pubDate>Sat, 22 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://brianc5.github.io/about/</guid>
       <description>I am a rising senior majoring in computer science at University of Illinois at Urbana Champaign (UIUC). I will be an intern at the Illumination and Imaging Lab (IMIL) at the Robotics Institue, Carnegie Mellon University (CMU). I was an one-semester visiting student at National Taiwan University. My resarch interests are machine/deep learning, computer vision/graphics, and computational photography. Specifically, I currently focus more on 3D side of computer graphics/vision. I am from Taiwan and I love the mountain there.</description>
     </item>
     

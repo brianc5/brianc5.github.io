@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Brian Chen&#39;s website</title>
-    <link>https://example.com/blog/</link>
+    <link>https://brianc5.github.io/blog/</link>
     <description>Recent content in Blog on Brian Chen&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 May 2021 01:59:28 +0800</lastBuildDate><atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 May 2021 01:59:28 +0800</lastBuildDate><atom:link href="https://brianc5.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://example.com/blog/first/</link>
+      <link>https://brianc5.github.io/blog/first/</link>
       <pubDate>Sun, 23 May 2021 01:59:28 +0800</pubDate>
       
-      <guid>https://example.com/blog/first/</guid>
+      <guid>https://brianc5.github.io/blog/first/</guid>
       <description>Some contents of a file in blog</description>
     </item>
     
